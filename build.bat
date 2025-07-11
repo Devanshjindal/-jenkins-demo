@@ -1,3 +1,2 @@
-#!/bin/bash
-echo "Hello from Jenkins!"
-date
+echo Hello Jenkins!
+echo Today is %DATE% at %TIME%
